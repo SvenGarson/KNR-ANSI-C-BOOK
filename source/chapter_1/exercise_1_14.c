@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define NUMBER_OF_CHARS_IN_CHARSET 256
-#define HISTOGRAM_TERMINAL_CHARS_PER_FREQUENCY 25
+#define HISTOGRAM_TERMINAL_CHARS_PER_FREQUENCY 50
 /*
     This program draws a horizontal histogram of the frequency of input
     characters in terms of the total number of characters input.
